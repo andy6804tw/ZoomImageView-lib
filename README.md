@@ -1,5 +1,7 @@
 # ZoomImageView-lib
 
+<img src="Screenshot/20170706_184348.gif" width="300">
+
 ## How to
 
 To get a Git project into your build:
